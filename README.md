@@ -1,1 +1,2 @@
 # SGH
+Zmiana w pliku
